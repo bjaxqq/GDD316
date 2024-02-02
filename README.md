@@ -10,4 +10,4 @@ For this class, we primarily worked in Unity with C#.
 
 ### Portfolio Website
 
-The only file provided on this repository is `index.html`, and this is because our work is on an individual [portfolio website](https://mywebspace.quinnipiac.edu/bajackson1/200/index.html) to publish our assignments. If you go to this link, you will be directed to the website where you can see the individual assignments and final project. I did this as well for another class, [GDD200](https://github.com/bjaxqq/GDD200).
+The only file provided on this repository is `index.html`, and this is because our work is on an individual [portfolio website](https://mywebspace.quinnipiac.edu/bajackson1/GDD_316/index.html) to publish our assignments. If you go to this link, you will be directed to the website where you can see the individual assignments and final project. I did this as well for another class, [GDD200](https://github.com/bjaxqq/GDD200).
