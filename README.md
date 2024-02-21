@@ -10,4 +10,4 @@ For this class, we primarily worked in Unity with C#.
 
 ### Portfolio Website
 
-The frontend for the work is on an individual [portfolio website](https://mywebspace.quinnipiac.edu/bajackson1/GDD_316/index.html) to publish our assignments. If you go to this link, you will be directed to the website where you can see the individual assignments and final project. I did this as well for another class, [GDD200](https://github.com/bjaxqq/GDD200). The backend for everything is here in the repository.
+This class' work is on an individual [portfolio website](https://mywebspace.quinnipiac.edu/bajackson1/GDD_316/index.html). If you go to this link, you will be directed to the website where you can see the individual assignments and final project. I did this as well for another class, [GDD200](https://github.com/bjaxqq/GDD200). The backend for everything is here in the repository.
